@@ -1,1 +1,6 @@
 这是测试 github 的提交有没有成功，测试效果直接成功
+
+index.js 
+index.vue
+index.css
+index.html
